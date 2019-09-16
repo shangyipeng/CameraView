@@ -245,7 +245,7 @@ public class JCameraView extends FrameLayout implements CameraInterface.CameraOp
 //                    jCameraLisenter.quit();
 //                }
 //            }
-//        });
+//        });aaa
         mCaptureLayout.setLeftClickListener(new ClickListener() {
             @Override
             public void onClick() {
